@@ -1,4 +1,4 @@
-<h1 align="center">Hey, Im Rapture</h1>
+<h1 align="center">Hey, Im Rapture</h1> 
 <h3 align="center">A Typescript as well as a Javascript Developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ftrapture&label=Profile%20views&color=0e75b6&style=flat" alt="ftrapture" /> </p>
