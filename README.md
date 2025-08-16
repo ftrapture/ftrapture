@@ -5,14 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ftrapture" alt="ftrapture" /></a> </p>
 
-- 🔭 I’m currently working on [blue.ts](https://github.com/ftrapture/blue.ts)
-
-- 🌱 I’m currently learning **Java, kotlin, pl/sql**
-
-- 👯 I’m looking to collaborate on [Lavalink](https://github.com/lavalink-devs/Lavalink)
-
-- 📫 How to reach me **discord.gg/hangover**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://discord.gg/hangover" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="hangover" height="30" width="40" /></a>
